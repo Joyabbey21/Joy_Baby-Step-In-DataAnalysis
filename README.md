@@ -1,4 +1,4 @@
-# Project name: Joy_Baby-Step-In-DataAnalysis
+# Project name: Joy-Baby-Step-In-DataAnalysis
 
 ----
 # Project Objective: Problem Statement
